@@ -28,6 +28,6 @@ Membuat sistem otomatis yang dapat membantu pemilik rumah untuk menjaga pakaian 
 
 ## Dokumentasi Proyek
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="src/images/Prototipe-Top_View.jpg" alt="Prototipe Tampilan Atas" width="300"/>
-  <img src="src/images/Prototipe-Front_View.jpg" alt="Prototipe Tampilan Depan" width="300"/>
+  <img src="src/images/Prototipe-Top_View.jpg" alt="Prototipe Tampilan Atas" height="400"/>
+  <img src="src/images/Prototipe-Front_View.jpg" alt="Prototipe Tampilan Depan" height="400"/>
 </div>
