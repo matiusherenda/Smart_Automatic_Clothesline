@@ -19,3 +19,4 @@ Membuat sistem otomatis yang dapat membantu pemilik rumah untuk menjaga pakaian 
 6. **Motor DC**: Menggerakkan tali jemuran secara otomatis berdasarkan masukan dari sensor.
 7. **Mini Fan**: Membantu pengeringan pakaian secara otomatis ketika kondisi cuaca sedang basah.
 
+![Render 3D Model](src\prototipe_model\Smart_Automatic_Clothesline_Prototipe.stl)
