@@ -18,6 +18,16 @@ Membuat sistem otomatis yang dapat membantu pemilik rumah untuk menjaga pakaian 
 5. **LED**: Indikator status sistem dalam kondisi aktif atau tidak.
 6. **Motor DC**: Menggerakkan tali jemuran secara otomatis berdasarkan masukan dari sensor.
 7. **Mini Fan**: Membantu pengeringan pakaian secara otomatis ketika kondisi cuaca sedang basah.
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="assets/diagrams/block_diagram.png" alt="Block Diagram" height="400"/>
+</div>
+
+## Circuit Diagram
+<a href="assets/diagrams/schematic_diagram.png" target="_blank">
+  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
+    Schematic Diagram
+  </button>
+</a>
 
 ## Model 3D Prototipe
 <a href="assets/prototipe_model/Smart_Automatic_Clothesline_Prototipe.stl" target="_blank">
