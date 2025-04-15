@@ -43,8 +43,8 @@ Membuat sistem otomatis yang dapat membantu pemilik rumah untuk menjaga pakaian 
 </div>
 
 ## 🚀 Getting Started
-1. Clone the repository
-2. Open `src/main.ino` in Arduino IDE
-3. Connect components as shown in the schematic
-4. Upload to Arduino Uno
-5. Power on and test the system
+1. Clone repository
+2. Buka `src/main.ino` di Arduino IDE
+3. Hubungkan komponen seperti pada schematic
+4. Upload ke Arduino Uno
+5. Power on dan tes sistem
