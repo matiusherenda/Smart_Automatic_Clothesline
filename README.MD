@@ -20,7 +20,7 @@ Membuat sistem otomatis yang dapat membantu pemilik rumah untuk menjaga pakaian 
 7. **Mini Fan**: Membantu pengeringan pakaian secara otomatis ketika kondisi cuaca sedang basah.
 
 ## Model 3D Prototipe
-<a href="src/prototipe_model/Smart_Automatic_Clothesline_Prototipe.stl" target="_blank">
+<a href="assets/prototipe_model/Smart_Automatic_Clothesline_Prototipe.stl" target="_blank">
   <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
     3D Model Prototipe Smart Automatic Clothesline
   </button>
@@ -28,6 +28,6 @@ Membuat sistem otomatis yang dapat membantu pemilik rumah untuk menjaga pakaian 
 
 ## Dokumentasi Proyek
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="src/images/Prototipe-Top_View.jpg" alt="Prototipe Tampilan Atas" height="400"/>
-  <img src="src/images/Prototipe-Front_View.jpg" alt="Prototipe Tampilan Depan" height="400"/>
+  <img src="assets/images/Prototipe-Top_View.jpg" alt="Prototipe Tampilan Atas" height="400"/>
+  <img src="assets/images/Prototipe-Front_View.jpg" alt="Prototipe Tampilan Depan" height="400"/>
 </div>
